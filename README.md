@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying on VKU
-- 🌱 I’m currently learning Java
+- 🔭 I’m studying on VKU
+- 🌱 I’m learning java
 
 
 
